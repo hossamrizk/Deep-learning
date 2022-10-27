@@ -1,2 +1,2 @@
-# Your-first-step-in-CNN
+# Deep learning and computer vision
 Different deep learning algorithms
